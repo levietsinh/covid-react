@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.js": "/covid-react/static/js/main.fd263ffd.chunk.js",
-    "main.js.map": "/covid-react/static/js/main.fd263ffd.chunk.js.map",
+    "main.js": "/covid-react/static/js/main.13ad0553.chunk.js",
+    "main.js.map": "/covid-react/static/js/main.13ad0553.chunk.js.map",
     "runtime-main.js": "/covid-react/static/js/runtime-main.c4da574b.js",
     "runtime-main.js.map": "/covid-react/static/js/runtime-main.c4da574b.js.map",
-    "static/js/2.e4357622.chunk.js": "/covid-react/static/js/2.e4357622.chunk.js",
-    "static/js/2.e4357622.chunk.js.map": "/covid-react/static/js/2.e4357622.chunk.js.map",
+    "static/css/2.ad1f6cdf.chunk.css": "/covid-react/static/css/2.ad1f6cdf.chunk.css",
+    "static/js/2.0200b6ae.chunk.js": "/covid-react/static/js/2.0200b6ae.chunk.js",
+    "static/js/2.0200b6ae.chunk.js.map": "/covid-react/static/js/2.0200b6ae.chunk.js.map",
     "index.html": "/covid-react/index.html",
-    "static/js/2.e4357622.chunk.js.LICENSE.txt": "/covid-react/static/js/2.e4357622.chunk.js.LICENSE.txt"
+    "static/css/2.ad1f6cdf.chunk.css.map": "/covid-react/static/css/2.ad1f6cdf.chunk.css.map",
+    "static/js/2.0200b6ae.chunk.js.LICENSE.txt": "/covid-react/static/js/2.0200b6ae.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/covid-react/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.c4da574b.js",
-    "static/js/2.e4357622.chunk.js",
-    "static/js/main.fd263ffd.chunk.js"
+    "static/css/2.ad1f6cdf.chunk.css",
+    "static/js/2.0200b6ae.chunk.js",
+    "static/js/main.13ad0553.chunk.js"
   ]
 }
